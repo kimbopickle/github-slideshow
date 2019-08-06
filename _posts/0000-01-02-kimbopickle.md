@@ -2,5 +2,5 @@
 layout: slide 
 title: "Welcome to our second slide!"
  ----
- Hellooooo
+ I enjoy "Hello"
  Left arrow goes back?
